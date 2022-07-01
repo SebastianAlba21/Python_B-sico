@@ -1,2 +1,2 @@
-# Python_B-sico
+# Python_Basico
 Prácticas de Python básico.
